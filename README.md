@@ -1,4 +1,4 @@
-# 🍍💻 My personal space.
+# 🍍💻 My personal space
 A pseudo-blog that's not a real blog.
 Why get things complicated when you can do everything with `markdown`?
 
