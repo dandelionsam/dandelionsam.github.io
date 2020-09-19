@@ -79,7 +79,9 @@ Dobbiamo attenerci a delle regole, e per attenerci alle regole dobbiamo prima co
 
 ## 🔎 Referenze
 [Conventional Commits](https://www.conventionalcommits.org/)
+
 [Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages)
+
 [Karma Git Commit Msg](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
 
 
