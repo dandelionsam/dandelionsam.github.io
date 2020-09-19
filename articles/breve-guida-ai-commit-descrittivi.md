@@ -60,6 +60,7 @@ Ecco quindi la descrizione di ogni singolo type:
 - `fix`: bug fix
 - `perf`: cambiamenti per il miglioramento delle performance;
 - `refactor`: cambiamenti al codice che non rientrano in `fix` o `feat`
+- `revert`: ripristino di uno stato precedente del commit
 - `style*`: cambiamenti che non influenzano il significato del codice (spazi bianchi, formattazione, punti e virgola)
 - `test*`: aggiunta di test o correzione di quelli già esistenti
 
@@ -75,5 +76,10 @@ Fondamentalmente è vero: questo modo di scrivere i commit aggiunge un mini laye
 Dobbiamo attenerci a delle regole, e per attenerci alle regole dobbiamo prima conoscerle.
 
 ✅ È vero altresì che, superato questo piccolo scoglio iniziale, i vantaggi di questo sistema sono pressochè **insostituibili**: guadagneremo un **incredibile chiarezza** nei nostri messaggi, avremo la possibilità di **automazione** e sicuramente **perderemo meno tempo** e ci spremeremo meno le meningi nello scrivere i messaggi stessi.
+
+## 🔎 Referenze
+[Conventional Commits](https://www.conventionalcommits.org/)
+[Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages)
+[Karma Git Commit Msg](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
 
 
